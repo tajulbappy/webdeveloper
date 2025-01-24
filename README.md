@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tajul</h1>
+<h1 align="center">Hi 👋, I'm Tajul</h1>
 <h3 align="center">A web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulbappy&label=Profile%20views&color=0e75b6&style=flat" alt="tajulbappy" /> </p>

@@ -1,4 +1,4 @@
-### Hi there 👋, Hi i'm tajul !!!
+### Hello, i'm tajul !!!
 #### web developer
 ![web developer](https://github.com/tajulbappy/webdeveloper/blob/main/Tasnuva_PP.jpg)
 
